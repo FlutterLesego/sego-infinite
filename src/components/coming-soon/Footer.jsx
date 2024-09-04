@@ -2,8 +2,8 @@ import { styled } from "styled-components";
 import Logo from "../../assets/images/logo/logo-light.png";
 
 const LogoBox = styled.img`
-  height: 5rem;
-  width: 15rem;
+  height: 4rem;
+  width: 12rem;
 `;
 function Footer() {
   return (
